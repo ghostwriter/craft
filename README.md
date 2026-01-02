@@ -1,9 +1,9 @@
-# Draft
+# Craft
 
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/ghostwriter?label=Sponsor+@ghostwriter/draft&logo=GitHub+Sponsors)](https://github.com/sponsors/ghostwriter)
-[![Automation](https://github.com/ghostwriter/draft/actions/workflows/automation.yml/badge.svg)](https://github.com/ghostwriter/draft/actions/workflows/automation.yml)
-[![Supported PHP Version](https://badgen.net/packagist/php/ghostwriter/draft?color=8892bf)](https://www.php.net/supported-versions)
-[![Downloads](https://badgen.net/packagist/dt/ghostwriter/draft?color=blue)](https://packagist.org/packages/ghostwriter/draft)
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/ghostwriter?label=Sponsor+@ghostwriter/craft&logo=GitHub+Sponsors)](https://github.com/sponsors/ghostwriter)
+[![Automation](https://github.com/ghostwriter/craft/actions/workflows/automation.yml/badge.svg)](https://github.com/ghostwriter/craft/actions/workflows/automation.yml)
+[![Supported PHP Version](https://badgen.net/packagist/php/ghostwriter/craft?color=8892bf)](https://www.php.net/supported-versions)
+[![Downloads](https://badgen.net/packagist/dt/ghostwriter/craft?color=blue)](https://packagist.org/packages/ghostwriter/craft)
 
 work in progress
 
