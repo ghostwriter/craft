@@ -6,10 +6,10 @@
     "description": "Major release – targeting 1.0.x branch (semantic version: 1.0.0)"
     "state": "open"
 "repository":
-  "name": "draft"
+  "name": "craft"
   "description": "[WIP] Generate a PHP Web Applications from draft.php files"
-  "topics": "draft, ghostwriter, wip"
-  "homepage": "https://github.com/ghostwriter/draft"
+  "topics": "craft, ghostwriter, wip"
+  "homepage": "https://github.com/ghostwriter/craft"
   "default_branch": "0.1.x"
   "allow_auto_merge": true
   "allow_forking": true
